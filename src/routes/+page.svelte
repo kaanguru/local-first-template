@@ -1,5 +1,7 @@
 <!-- YOU CAN DELETE EVERYTHING IN THIS PAGE -->
-
+<script lang="ts">
+	import AddUserForm from '$lib/components/AddUserForm.svelte';
+</script>
 <div class="container h-full mx-auto flex justify-center items-center">
 	<div class="space-y-10 text-center flex flex-col items-center">
 		<h2 class="h2">Welcome to Skeleton.</h2>
@@ -33,6 +35,7 @@
 			<p><code class="code">/src/routes/+layout.svelte</code></p>
 			<p><code class="code">/src/routes/+page.svelte</code></p>
 		</div>
+		<AddUserForm />
 	</div>
 </div>
 
