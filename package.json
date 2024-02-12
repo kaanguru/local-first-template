@@ -46,6 +46,7 @@
   },
   "type": "module",
   "dependencies": {
-    "@floating-ui/dom": "1.6.2"
+    "@floating-ui/dom": "1.6.2",
+    "dexie": "4.0.1-beta.9"
   }
 }
