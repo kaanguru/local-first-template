@@ -1,6 +1,18 @@
-# Client-Side development template
+# Local-First Development Template
 
-Single User offline-first app template
+Single User offline-first app template to start your next project.
+Using Dexie.js, SuperForms with SvelteKit and Skeleton UI for TailwindCSS styling.
+
+
+
+<div align="center">
+
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+
+
+[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/kaanguru/local-first-template/generate)
+
+</div>
 
 ## Ready for PWA development
 
@@ -12,6 +24,11 @@ IndexeDB database
 - [SuperForms](https://superforms.rocks/concepts/spa) Single-page applications (SPA)
 
 ----
+## Usage
+
+- `pnpm install`
+- `pnpm update`
+- `pnpm dev`
 
 ## Used Formula
 
