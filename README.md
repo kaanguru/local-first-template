@@ -1,7 +1,8 @@
 # Client-Side development template
+
 Single User offline-first app template
 
-**Ready for PWA development**
+## Ready for PWA development
 
 **Using:**
 
@@ -17,11 +18,10 @@ IndexeDB database
 - [x] [Skeleton — UI Toolkit for Svelte + Tailwind](https://www.skeleton.dev/docs/get-started)
   - [x] `-npm create skeleton-app@latest my-skeleton-app`
 - [x] [SvelteKit | Tauri Apps](https://tauri.app/v1/guides/getting-started/setup/sveltekit/#sveltekit-in-ssg-mode)
-  - [x] ` pnpm add -D @sveltejs/adapter-static `
-  - [x] Then update the `adapter` import in the `svelte.config.js` file
+  - [ ] ` pnpm add -D @sveltejs/adapter-static `
+  - [ ] Then update the `adapter` import in the `svelte.config.js` file
 - [x] [Get started with Dexie in Svelte](https://dexie.org/docs/Tutorial/Svelte)
-  - [x]  ` pnpm install dexie@next `
-  - [x]  `src\lib\db.ts`
+  - [ ]  ` pnpm install dexie@next `
+  - [ ]  `src\lib\db.ts`
 - [x] [Superforms for SvelteKit](https://superforms.rocks/concepts/spa)
   - [ ] `pnpm i -D sveltekit-superforms zod`
-
