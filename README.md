@@ -11,6 +11,11 @@ Using Dexie.js, SuperForms with SvelteKit and Skeleton UI for TailwindCSS stylin
 
 [![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/kaanguru/local-first-template/generate)
 
+![Static Badge](https://img.shields.io/badge/superforms-yellow?link=https%3A%2F%2Fsuperforms.rocks%2F)
+![Static Badge](https://img.shields.io/badge/Skeleton_UI-red?link=https%3A%2F%2Fwww.skeleton.dev%2F)
+![Static Badge](https://img.shields.io/badge/%20Dexie.js-blue?link=https%3A%2F%2Fdexie.org%2F)
+
+
 </div>
 
 ## Ready for PWA development
